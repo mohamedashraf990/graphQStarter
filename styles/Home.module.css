@@ -113,6 +113,15 @@
   margin-left: 0.5rem;
 }
 
+
+.pstyle{
+  padding: 10px;
+}
+.h3style{
+  padding: 10px;
+}
+
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
